@@ -8,6 +8,6 @@ The app implements some of the main features of Uber:
 Signup, login and logout && adding snap from library or by camera then select the friend the user would like to send the snap to him.
 The application uses these main elements :
 
-firebase && Navigation controller && Table view controller 
+firebase(Auth,Database and storage) && SDWebImage && Navigation controller && Table view controller 
 
 dropbox link for project:
